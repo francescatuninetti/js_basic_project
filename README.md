@@ -8,6 +8,7 @@ Created in the August 2022, this is my first JS project.
 
 ## :bulb: How it works
 User interface is very simple, you can increase, decrease the number in the box by one with + and - buttons. To reset the number to 0, click on "Reset" button:
+</br>
 <img width="580" alt="counter screenshot" src="https://user-images.githubusercontent.com/106266262/184733376-16a6b0d1-8973-4819-8aa3-2f19a723e4d4.png">
 
 ## :computer: Languages
