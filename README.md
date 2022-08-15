@@ -1,9 +1,9 @@
 
-#Counter project
+## Counter project
 This webpage runs a simple counter to increase or decrease a number. 
 
 ## :question: Why
-This project is the final practice for start2impact Javascript Advanced course.<br>
+This project is the final practice for start2impact Javascript Basic course.<br>
 Created in the August 2022, this is my first JS project.
 
 ## :bulb: How it works
