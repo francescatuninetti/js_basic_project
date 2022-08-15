@@ -3,6 +3,7 @@ body{
     font-family: "Grantha Sangam MN", serif;
     background-image: url("/img/background_pic-01.png");
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 header{
