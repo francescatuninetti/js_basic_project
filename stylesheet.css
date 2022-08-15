@@ -1,0 +1,111 @@
+body{
+    background-color: #f1eeea;
+    font-family: "Grantha Sangam MN", serif;
+    text-align: center;
+    background-image: url("/img/background_pic-01.png");
+    background-repeat: no-repeat;
+}
+
+header{
+    height:50%;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: #5d5d5d;
+}
+
+h2{
+    font-size: 23px;
+}
+
+#counterNumber{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+    background-color: #e5e5e5;
+    border-radius: 5px;
+}
+
+#counterContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#increaseButton{
+    margin: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: #b5ce8b;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+#decreaseButton{
+    margin: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: #a3c1ea;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+#resetButton{
+    height: 40px;
+    width: 100px;
+    background-color: #b4b4b4;
+    font-size: 20px;
+    border-radius: 40px;
+}
+
+#resetContainer{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+#footer{
+    font-size: 14px;
+    font-weight: lighter;
+    color: #c0c0c0;
+    position: fixed;
+    bottom: 550px;
+}
+
+#increaseButton:hover{
+    background-color: #8da465;
+    color: lightgoldenrodyellow;
+}
+
+#increaseButton:active{
+    background-color: #8da465;
+    color: black;
+}
+
+#decreaseButton:hover{
+    background-color: #76adfc;
+    color: #f0f4ff;
+}
+
+#decreaseButton:active{
+    background-color: #76adfc;
+    color: black;
+}
+
+#resetButton:hover{
+    background-color: #8d8d8d;
+color: #e5e5e5;
+}
+
+#resetButton:active{
+    background-color: #8d8d8d;
+    color: #000000;
+}
