@@ -70,14 +70,13 @@ h2{
 footer{
     display: flex;
     justify-content: center;
+    padding-top: 40px;
 }
 
 #footer{
     font-size: 14px;
     font-weight: lighter;
     color: #c0c0c0;
-    position: fixed;
-    bottom: 550px;
 }
 
 #increaseButton:hover{
