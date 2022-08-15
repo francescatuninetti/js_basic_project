@@ -15,7 +15,7 @@ User interface is very simple, you can increase, decrease the number in the box 
 * Javascript ES6
 
 ## :zap:  Try it!
-<a href="https://fancy-beijinho-21f259.netlify.app"> Click here </a>
+<a href="https://fancy-beijinho-21f259.netlify.app" target="_blank"> Click here </a>
 
 ## :page_with_curl:  License
 [MIT](https://choosealicense.com/licenses/mit/)
